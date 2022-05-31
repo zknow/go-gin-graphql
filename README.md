@@ -8,7 +8,7 @@ Golang Gin + grapgQL + MongoDB
 - [gqlgen](github.com/99designs/gqlgen) - GraphQL for Go
 - [MongoDB](https://github.com/mongodb/mongo-go-driver) - MongoDB Driver API for Go
 
-## Sample Query & Mutation Operation
+## Query & Mutation Operation Sample
 
 ```sh
 mutation {
