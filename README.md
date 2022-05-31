@@ -1,8 +1,8 @@
 # 用Gin框架的GraphQL Demo
 
-Golang Gin + grapgQL + MongoDB
+Golang Gin + GrapgQL + MongoDB
 
-## _Tech_
+## Tech
 
 - [Gin](https://github.com/gin-gonic/gin) - Web framework written in Go
 - [gqlgen](github.com/99designs/gqlgen) - GraphQL for Go
